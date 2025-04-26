@@ -1,4 +1,9 @@
 hi 
 learning git
 hello
+<<<<<<< HEAD
 new line added
+=======
+newline added
+update from another one
+>>>>>>> 451d4af3f7a1f3a24c9290101b953bbbd769c1b3
